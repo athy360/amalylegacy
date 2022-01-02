@@ -1,22 +1,22 @@
-.danavdiv .nav.nav-pills .nav-link.active {
+.dabody .danavdiv .nav.nav-pills .nav-link.active {
     background: #2977A3 !important;
     color: #ffffff !important;
 }
 
-.danavdiv .nav.nav-pills .nav-link {
+.dabody .danavdiv .nav.nav-pills .nav-link {
     margin: 0 0 10px;
     background: #f3f3f3;
     cursor: pointer;
     line-height: 2.2 !important;
 }
 
-.form-actions .btn-da.btn-primary {
+.dabody .form-actions .btn-da.btn-primary {
       background-color: #2977A3 !important;
     border-color: #2977A3 !important;
   width: 100%;
 }
 
-section#daquestion {
+.dabody section#daquestion {
   background: #ffffff  !important;
     padding-top: 5px  !important;
     padding-bottom: 15px  !important;
