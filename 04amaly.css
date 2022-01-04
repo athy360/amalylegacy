@@ -1,0 +1,60 @@
+.dabody .danavdiv .nav.nav-pills .nav-link.active {
+    background: #2977A3 !important;
+    color: #ffffff !important;
+}
+
+.dabody .danavdiv .nav.nav-pills .nav-link {
+    margin: 0 0 10px;
+    background: #f3f3f3;
+    cursor: pointer;
+    line-height: 2.2 !important;
+}
+
+.dabody .form-actions .btn-da.btn-primary {
+      background-color: #2977A3 !important;
+    border-color: #2977A3 !important;
+  width: 100% !important;
+    padding: 10px !important;
+}
+
+.dabody section#daquestion {
+  background: #ffffff  !important;
+    padding-top: 5px  !important;
+    padding-bottom: 15px  !important;
+    border-radius: 5px  !important;
+}
+
+div.danavdiv {
+    max-width: 25% !important;
+}
+
+.danavlinks {
+    width: 230px !important; 
+}
+
+.col-form-label {
+    color: #7c7c7c !important
+}
+
+.dabody .danavdiv .nav.nav-pills a.nav-link {
+    color: #2977A3;
+}
+
+.danonsubmit {
+    width: 100% !important;
+    background: #2977A32c !important;
+    color: #2977A3 !important;
+}
+
+.da-field-radio .btn-primary {
+    background: #2977A3 !important;
+    border-radius: 25px !important;
+}
+
+.form-control {
+        border: 1px solid transparent !important;
+    border-radius: 10px !important;
+    box-shadow: rgb(0 0 0 / 9%) 0px 3px 12px !important;
+    height: 3.375rem !important;
+    font-size: 14px !important;
+}
