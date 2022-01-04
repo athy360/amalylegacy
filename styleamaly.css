@@ -34,3 +34,7 @@ div.danavdiv {
 .col-form-label {
     color: #7c7c7c !important
 }
+
+.dabody .danavdiv .nav.nav-pills a.nav-link {
+    color: #2977A3;
+}
