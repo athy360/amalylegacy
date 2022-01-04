@@ -26,3 +26,7 @@
 div.danavdiv {
     max-width: 25% !important;
 }
+
+.danavlinks {
+    width: max-content !important; 
+}
