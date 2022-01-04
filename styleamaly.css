@@ -30,3 +30,7 @@ div.danavdiv {
 .div.danav {
     width: max-content !important; 
 }
+
+.col-form-label {
+    color: #7c7c7c !important
+}
