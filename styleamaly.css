@@ -22,3 +22,7 @@
     padding-bottom: 15px  !important;
     border-radius: 5px  !important;
 }
+
+div.danavdiv {
+    max-width: 25% !important;
+}
