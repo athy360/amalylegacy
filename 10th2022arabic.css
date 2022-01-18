@@ -104,3 +104,7 @@ body {
   font-family: 'Cairo', sans-serif !important;
 font-family: 'Lato', sans-serif !important;
 }
+
+.hslNavContainer {
+    display: none;
+}
